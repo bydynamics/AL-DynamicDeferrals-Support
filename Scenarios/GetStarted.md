@@ -1,9 +1,9 @@
-# Create a new vendor blocked bank account.
+# Create a Deferral Template or find an existing.
 
 *Prerequisites: Microsoft Dynamics 365 Business Central 
 
-1. Navigate to vendors, select vendor, bank accounts and choose **New**
-   ![New](https://github.com/bydynamics/AL-BlockedBankAccount-Support/blob/main/Assets/VendorBankAccountCard.png)
+1. Navigate to Deferral Templates and open an existing or choose **New**
+   ![New](https://github.com/bydynamics/AL-BlockedBankAccount-Support/blob/main/Assets/DeferralTemplateCard.png)
 
 ______________________________________________________________________
 
