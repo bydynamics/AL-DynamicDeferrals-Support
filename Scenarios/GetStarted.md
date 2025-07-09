@@ -8,4 +8,4 @@
 ______________________________________________________________________
 
 [back](../README.md)
-[next](../CreatePurchaseInvoice.md)
+[next](Scenarios/CreatePurchaseInvoice.md)
