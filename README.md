@@ -5,6 +5,7 @@ Dynamic Deferrals for Business Central lets you automatically include line descr
 ## Usage scenarios
 
 1. [Get Started.](Scenarios/GetStarted.md)
+2. [Create Purchase Invoice with Deferral.](Scenarios/CreatePurchaseInvoice.md)
 
 
 
